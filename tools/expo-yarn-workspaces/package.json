@@ -2,7 +2,6 @@
   "name": "expo-yarn-workspaces",
   "version": "1.1.0",
   "description": "A private package for working with Yarn workspaces within the Expo repository",
-  "private": true,
   "author": "Expo",
   "license": "MIT",
   "main": "index.js",
@@ -13,9 +12,5 @@
     "debug": "^3.1.0",
     "find-yarn-workspace-root": "^1.2.0",
     "mkdirp": "^0.5.1"
-  },
-  "devDependencies": {
-    "@types/debug": "^4.1.3",
-    "@types/mkdirp": "^0.5.2"
   }
 }
